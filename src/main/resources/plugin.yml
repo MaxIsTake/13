@@ -1,0 +1,7 @@
+name: Jk.net
+version: '${project.version}'
+main: tpplugin.jk.net.Jk.net
+api-version: 1.18
+commands
+ tp
+  description: Teleport Players
